@@ -1,1 +1,5 @@
-{ "global" : 100.0, "com.fungames.sniper3d" : 100.0 }
+{ 
+  "global" : 100.0,
+  "com.tfg.TFGMonitoring" : 50,
+  "com.topfreegames.monitoring.test" : 5.0
+}
